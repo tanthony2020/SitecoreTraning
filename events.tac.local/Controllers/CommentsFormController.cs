@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace events.tac.local.Controllers
 {
-    public class SubscribeFormController : Controller
+    public class CommentsFormController : Controller
     {
-        // GET: SubscribeForm
+        // GET: CommentsForm
         public ActionResult Index()
         {
             return View();

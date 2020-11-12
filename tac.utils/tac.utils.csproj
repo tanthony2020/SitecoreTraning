@@ -116,7 +116,9 @@
     <Compile Include="Helpers\SitecoreExtensions.cs" />
     <Compile Include="Helpers\SitecoreHelper.cs" />
     <Compile Include="Helpers\TagHelper.cs" />
+    <Compile Include="Helpers\ValidateHandlerExtensions.cs" />
     <Compile Include="Mvc\MvcTag.cs" />
+    <Compile Include="Mvc\ValidateFormHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Search\UrlComputedField.cs" />
     <Compile Include="SitecoreModels\SitecoreItem.cs" />
