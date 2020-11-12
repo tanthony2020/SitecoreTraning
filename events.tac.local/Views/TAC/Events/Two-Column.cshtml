@@ -1,0 +1,29 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+@{
+
+}
+<header class="page-header">
+    <div class="container">
+        <!-- [Breadcrumb Navigation] -->
+       @Html.Sitecore().Placeholder("pageHeader")
+        <!-- [/Breadcrumb Navigation] -->
+    </div>
+</header>
+<section class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <!-- [SideContent] -->
+                @Html.Sitecore().Placeholder("pageSide")
+                <!-- [/SideContent] -->
+            </div>
+            <div class="col-lg-8">
+                <!-- [PageBody] -->
+                @Html.Sitecore().Placeholder("pageContent")
+                <!-- [/PageBody] -->
+            </div>
+        </div>
+    </div>
+</section>
