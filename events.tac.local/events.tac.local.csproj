@@ -131,6 +131,8 @@
     <Compile Include="Controllers\BreadcrumbController.cs" />
     <Compile Include="Controllers\EventIntroController.cs" />
     <Compile Include="Controllers\OverviewController.cs" />
+    <Compile Include="Controllers\RelatedEventsController.cs" />
+    <Compile Include="Controllers\SubscribeFormController.cs" />
     <Compile Include="Models\EventIntro.cs" />
     <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Models\OverviewItem.cs" />
@@ -268,6 +270,8 @@
     <Content Include="Views\TAC\Events\FeaturedEvent.cshtml" />
     <Content Include="Views\Breadcrumb\Index.cshtml" />
     <Content Include="Views\Overview\Index.cshtml" />
+    <Content Include="Views\RelatedEvents\Index.cshtml" />
+    <Content Include="Views\SubscribeForm\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
