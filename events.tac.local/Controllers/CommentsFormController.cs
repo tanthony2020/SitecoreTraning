@@ -15,7 +15,7 @@ namespace events.tac.local.Controllers
         }
         [HttpPost]
         [TAC.Utils.Mvc.ValidateFormHandler]
-        public ActionResult Index(string email)
+        public ActionResult Index(string comment, string name)
         {
             return View("Confirmation");
         }

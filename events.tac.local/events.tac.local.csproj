@@ -128,6 +128,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Importer\Controllers\EventsController.cs" />
+    <Compile Include="Areas\Importer\ImporterAreaRegistration.cs" />
+    <Compile Include="Areas\Importer\Models\Event.cs" />
     <Compile Include="Business\EventsProvider.cs" />
     <Compile Include="Controllers\BreadcrumbController.cs" />
     <Compile Include="Controllers\CommentsFormController.cs" />
@@ -188,10 +191,16 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Scripts\commentsForm.js" />
+    <Content Include="Scripts\itemservice.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="App_Config\Include\TAC\Events\Events.DefaultIndexConfiguration.config" />
     <Content Include="App_Config\Include\TAC\Events\Solr.Events.Web.Index.config" />
+    <Content Include="App_Config\Include\TAC\Events\Events.Services.Client.config" />
     <None Include="App_Config\Include\TAC\Events\Solr.Events.Master.Index.config" />
+    <Content Include="Areas\Importer\Views\web.config" />
+    <Content Include="Areas\Importer\Views\Shared\Layout.cshtml" />
+    <Content Include="Areas\Importer\Views\Events\Index.cshtml" />
     <None Include="Properties\PublishProfiles\events.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <None Include="packages.config" />

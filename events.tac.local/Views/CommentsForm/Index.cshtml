@@ -1,10 +1,10 @@
-﻿@using TAC.Utils.Helpers
-@using (Html.BeginForm())
-{
-    @Html.FormHandler()
+﻿<script src="~/Scripts/itemservice.js"></script>
+<script src="~/Scripts/commentsForm.js"></script>
+<form onsubmit="createCommentItem(this, '@RenderingContext.Current.Rendering.Item.Paths.FullPath')">
     <div>
+
         <input type="text" class="form-control" placeholder="Name" name="name">
         <input type="text" class="form-control" placeholder="Add your comment here" name="comment">
     </div>
     <input type="submit" class="btn btn-default" value="Submit Comment">
-}
+ </form>
