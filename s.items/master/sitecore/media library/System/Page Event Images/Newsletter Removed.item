@@ -1,0 +1,137 @@
+----item----
+version: 1
+id: {9AFADD9B-0D62-4DC9-8FD4-7228A45A7B7F}
+database: master
+path: /sitecore/media library/System/Page Event Images/Newsletter Removed
+parent: {B43AFD99-AFE1-4A6D-A4B2-3844BE73C9BE}
+name: Newsletter Removed
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20181101T095340Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1194
+
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAwtJREFUeNrs3Ott2zAUgFG6yAAdJSNkhI7AUbKJR8kI6SYZwa0Bp0Cd
+2CIpkqao8wH6l4fte8JI9OMQQjgF7bYfHgIABIAAEAACQABoTz0lfM3Bw7TpTlYAASAABIAAEAAC
+QAAIAAEAgAAQAAJAAGh3PXX4HaO/7+Aw+O0/WAEEgAAQAAJAAAgAbWgfwPsKrAACQAAIAAEgAASA
+9rMPsPXXA1gBBIAAEAACQAAIANkHcJ1tBRAAAkAACAABIABkH+BrXg9gBRAAAkAACAABIAA0zjXw
+KeFrZAUQAAJAAAgAASAAtP28HmC5gxVAAAgAAaDMni9Hz379PX7mnqTdO2qcBG75WDP8j8vRC0G8
+3Ob3HAQA1L//n8P//Bk9EMSr252MAIC69/96+D0QxBu3PQlBawB7+5//ceexbIEgLsxvEQEAfYbf
+AkFMXMXuIgCg3/BrIogh71/ZTQQA9B1+DQQxlJ3PfIsAgP7DX4MghnUntV8QAPCY4ZcgiKHOlc1/
+CAB43PBzEMRQ9/L2HwIAHjv8FAQxtNnjeO/xXMCsW721O/81vn2D4Dz8Y6Pf+dtO4FirwPVKEBve
+76Ot4DpP9rRC8Npj+ACMeT5w6jV8AMY9KewyfADGvjJoPnwAxr88bDp8ALaxR9Bs+DaCtrNR1GT4
+AMyL4Fhridb2EGTtHAIwF4LsbWMA5kFQ9JwBAHMgKH7CCIA+vTYG8AzAuMUOy3/xawxn3wjaw/BX
+IQBgjuEXIwBgnuEXIQBgruFnIwBgvuFnIQBgzuEnIwBg3uEnIQBg7uEvIrARNP/w7yIAYB/Dv4kA
+gPGGf37f3kvo8+YTAAYc/uc7d7u8AwmAvF46DT90QgBAQcdOw2+NIAIwBoKUj3OrjSA6BxgDQc6n
+etZCEEfaqHnk8fZgBFkf6VoJQRxtp27rAEoRlAx/LYI44lbtDAByEawZfimCOOpe/SwAUhHUGH4u
+gjjykzUzAVhCUHP4qQji0g8AoA+CFsNfQhBTvhmA9ghaDv8Wgpj6jQC0RdBj+NcIkof/R4ABAGqT
+LUhyNPucAAAAAElFTkSuQmCC
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+128
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 3
+
+128
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 3
+
+873
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 9
+
+128 x 128
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/9AFADD9B0D624DC98FD47228A45A7B7F.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 438f259a-cca1-4580-b450-d5e37b89cf30
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 18
+
+Newsletter removed
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140213T104937
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+438f259a-cca1-4580-b450-d5e37b89cf30
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150514T121337:635672024177873509Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,155 @@
+----item----
+version: 1
+id: {24DBE945-D7AA-42CD-97A2-C6F3C199C80D}
+database: master
+path: /sitecore/templates/TAC/Events/Event Details/__Standard Values
+parent: {B24333BC-4FD0-43F9-BB4F-A9166EC0968D}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {B24333BC-4FD0-43F9-BB4F-A9166EC0968D}
+templatekey: Event Details
+created: 20201110T182534Z
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 38
+
+{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}
+----field----
+field: {D312103C-B36C-4CA5-864A-C85F9ABDA503}
+name: __Is Bucket
+key: __is bucket
+content-length: 1
+
+1
+----field----
+field: {C9283D9E-7C29-4419-9C28-5A5C8FF53E84}
+name: __Bucketable
+key: __bucketable
+content-length: 1
+
+0
+----field----
+field: {F7B94D8C-A842-49F8-AB7A-2169D00426B0}
+name: __Should Not Organize In Bucket
+key: __should not organize in bucket
+content-length: 1
+
+1
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1144
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{170106F2-8D0B-459D-B5DD-5E1601A35288}">
+    <r id="{459911A4-6E0C-458E-935A-2DEF7D486B8A}" ph="main" uid="{E9FDFE29-CFB4-4240-9997-704C43A0CF36}" />
+    <r id="{F4EAFAC7-9A65-4E24-89B9-298EB82EA473}" ph="pageSide" uid="{12BBFE07-A285-4767-8A2A-4F29020F32B0}" />
+    <r id="{560EB7A2-91F2-40E7-882D-6C5B426DBB00}" ph="pageContent" uid="{2C7EFF5B-F19B-4BF1-9A0A-308523D23DA6}" />
+    <r id="{61EED5B4-08FF-4354-9C83-2C0D25D80DA0}" ph="pageSide" uid="{2278B778-B96D-4A86-B2E2-EF58AE36A669}" />
+    <r id="{12F48EC9-97CB-4B1F-A878-713180688A82}" ph="pageSide" uid="{73EBA448-BBFF-4A04-8AFD-FD74840178CC}" />
+    <r id="{5DC69097-0B8A-40E9-B28A-8B4098E48E03}" ph="pageHeader" uid="{B9F87002-622B-48F8-9008-929ABE99F2C1}" />
+    <r id="{23AEF23C-30D1-446F-BAEF-A40C6471A4FD}" ph="pageSide" uid="{07738CDA-3C02-4499-B756-6F3F03B1C119}" />
+    <r id="{A1EF0C19-DB2B-490E-BEC3-EC2D11B8E641}" ph="pageContent" uid="{4F576BBB-06AE-43F9-866D-5A7FEBC5A548}" />
+    <r id="{FB736506-2E91-414D-A66D-54D37F1048F1}" ph="pageContent" uid="{F9AAC3C4-9240-4C46-AE0B-8709BC5F832C}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: c5bcabe2-617e-43cc-858d-e9dba2af6b51
+
+----field----
+field: {10489040-F7F5-4CCD-86D7-BF49973027E6}
+name: ContentBody
+key: contentbody
+content-length: 22
+
+Add event content here
+----field----
+field: {0442704A-C88D-41E5-921A-0EB8DD8A9664}
+name: Highlights
+key: highlights
+content-length: 25
+
+Add event highlights here
+----field----
+field: {81E35B20-0F90-4DC6-ACD7-5D5247E74C18}
+name: EventImage
+key: eventimage
+content-length: 138
+
+<image mediaid="{76AC5F36-7278-44C0-B3DC-5DE134EF4D67}" alt="Climbing the face of the half dome" height="" width="" hspace="" vspace="" />
+----field----
+field: {A4A20EC1-EA56-4D8B-A709-8572D77E135C}
+name: StartDate
+key: startdate
+content-length: 5
+
+$date
+----field----
+field: {6821C851-D5D0-4EB4-A2D7-F7F3DC472D61}
+name: Duration
+key: duration
+content-length: 2
+
+10
+----field----
+field: {11070E5A-7226-48E0-B406-3596D248BF38}
+name: Difficulty
+key: difficulty
+content-length: 3
+
+100
+----field----
+field: {B1E3AD3E-CBD4-44E6-A260-7C7C9F1D2C45}
+name: RelatedEvents
+key: relatedevents
+content-length: 77
+
+{33A2AF4D-BB5D-442E-A892-D77165E8B849}|{3BB7EC63-8AA6-44A3-8C2B-E8DF43972FC0}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20201110T182534Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c5bcabe2-617e-43cc-858d-e9dba2af6b51
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20201113T214237Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

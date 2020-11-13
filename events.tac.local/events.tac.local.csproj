@@ -202,6 +202,7 @@
     <Content Include="App_Config\Include\TAC\Events\Solr.Events.Web.Index.config" />
     <Content Include="App_Config\Include\TAC\Events\Events.Services.Client.config" />
     <Content Include="App_Config\Include\TAC\Events\Events.DI.config" />
+    <Content Include="App_Config\Include\TAC\Events\Events.Serialization.config" />
     <None Include="App_Config\Include\TAC\Events\Solr.Events.Master.Index.config" />
     <Content Include="Areas\Importer\Views\web.config" />
     <Content Include="Areas\Importer\Views\Shared\Layout.cshtml" />

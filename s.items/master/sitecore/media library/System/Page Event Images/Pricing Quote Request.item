@@ -1,0 +1,139 @@
+----item----
+version: 1
+id: {30E68347-3D15-4836-BD67-D9FB4BA3A09C}
+database: master
+path: /sitecore/media library/System/Page Event Images/Pricing Quote Request
+parent: {B43AFD99-AFE1-4A6D-A4B2-3844BE73C9BE}
+name: Pricing Quote Request
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20181101T095340Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1398
+
+iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA6BJREFUeNrs3e9x0zAYx/GnHO8JG5gNtEHcDcoEmA1gA2/ACG0noExg
+mCBhgmaDsIGxLs5x10tqEcfSIz3f352vL/onivSxKlmqeiPT6YUc82e4bodrW8obekOb/ldWw9UN
+lwMACBwAQOAAAAIHABA4AIDAAQAEDgAgcAAAgQMACBwAQOAAAAIHABA4AIDAAQAEWT4s6mdeucU3
+0v4K7/vUtc8RgTUAIAAACADwD0FvHYFlALIggGwQAMA4AgAYRwAA4wgAYBwBAIwjAIBxBAAwjgAA
+xhEAwDgCABhHAADjCABgHAEAjCMAgHEEACgYwU1gBSz9GtoBaI0/s+g9AOwCmF2/bAs3nrcFvRe/
+974ZP/qu8Wm4djSxjUFgI6d38H5TWJ/X3m1sHkA18fp3hSMwD6CdeP3vSnvWayGYFQuDwJXScvnj
+Zm9TF4JZQHoEACBMA0O6cTcO+KoXn1sHDBLbC+7Mn+N0kmlgokHKseE2ku5Ze8MgO34BVwEj+5hX
+DYB4BXQJ7/hU08ikADSNAXzjdwqnbVqnkcXNAu6VVvYvBoHLd1FfROemi00ElIwBhjwra/jniD2S
+eQAhx7Acp2SnGmRqxtDRw+oeBIZMsz6OD2ZIgYPAqW52S+PbmAWcC49jjQMgACAAIAAgACAAIAAg
+pgBUNFPZAHYBABqaqlwAIVuj/cqc/zOvmiaLn5KXg7sRliu8ftUXsBEdewDuAJCugJ3o2QS6AkD8
+AvpK17IjeBMRAQBeIOgUIQBAogL6TaJ7BQhaAKQtYDP+Tk6FYV86gJxOCavOPBX8NPGgyD9n+Hri
+Z60DHzD5/YhPCwPQUL/ZdlGtXL4rOGT62ZZcv9YXgx4C7u51yRXAaqDIb8tvHgDGAwAAEAAQABAA
+EAAQANjLOwDYjV9+ntoFtANAmanksE5QTXxd0U8KNa0G1nJY2asuaMjXvsefL7A9ceeHbgT9sHAv
+wGqgHHbmajwlLMb5QuY3hNRKG7+XONvFzS8H10p/PX4WBef5MwhM1/gPVEOcLqoSXQdE1oXVbxYF
+bCT9FvCm0Bssm2lgdWEjrCfuWj+FezzzOQ3/GYRp4My0wlGxDAIJAAgAiEUAU/v6H2nmwueprwwE
+76nffKaBc+OngsfVRD+t+yF5PM1LWr8lAci5h01WvwwCGQQSABAAEAAQABAAEFOJ8Y8je6qZHoAA
+gACAAIAAgACAAIAAgACAAIAAgACAAIAAgACARM1fAQYAba842ceZsW8AAAAASUVORK5CYII=
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+128
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 3
+
+128
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1022
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 9
+
+128 x 128
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/30E683473D154836BD67D9FB4BA3A09C.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 0a8ddb20-92d1-41e2-9162-78c04b13bb6c
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 21
+
+Pricing quote request
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140213T104937
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0a8ddb20-92d1-41e2-9162-78c04b13bb6c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150514T121433:635672024732748991Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

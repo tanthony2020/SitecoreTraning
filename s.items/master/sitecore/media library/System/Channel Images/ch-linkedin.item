@@ -1,0 +1,141 @@
+----item----
+version: 1
+id: {BBB88A6F-24C2-4D9E-9C26-F6D27E3F7308}
+database: master
+path: /sitecore/media library/System/Channel Images/ch-linkedin
+parent: {587F00AD-D60C-440B-B23F-6D55ABC094A8}
+name: ch-linkedin
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20181101T095340Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1486
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA99JREFUeNrsWUtPE1EU/ubRTsujBQQUDBh8RJQoLHRhosaVGhdudO3K
+aOIf0I0r4saYuDDRpf4AExONGhKNC1ckJgZMiWhQBAG1AnZKaefRqefcttqWCAxqHeKcZGDae4c5
+373nfOc7FymXy2E9m4x1bj6Af21q5Rcn+wcm6VfEo/7q9y8f61gWAFkLXZpHAWirCSHDwxFj+Ens
+A/AB+ADyJjElWFnoixZM24EkrSMAsixBT1sIayp2dzZAVWQkF23I/wCF6nrlycdEykLf1macPboT
+7RtqMPElhVuPRzD68RvqwwFv70DGzCJSE8D5493o6WxEY62G3q4mnDvWjQg5b1iOtwFw3Lc31aCz
+pa7s+x3tUTRHQ7DsrLcBhIIqJuJJvPukl30fm5jHzHwawYDsbQBaQEHacHDjQQyDb+KUvBaex2Zw
+82EMGSOLoKos+zw3gA79+FOdoOsk5hdHawMYej+LS3cG0RoNY2YuBdvJYWNDWDiXJiAcapzw7Gco
+qAjgqYwtnldVGQ7Nt7OOAMzjVQPAZtGLd3U0ihenMhZ6tjRh0bAxm8yI8U2UI421QXKQnFUkxPUM
+hd0CujbWo3tzA1oJKM+fmk1hbEan5wyxKGvZFNcAsrRyKcPCxVO9ONTTJj4rVBcevZjEtXtDYs6F
+E9twYl8HrTLXDOD2k1G8HKMdO90naLfUhj/M4dbDEbwmCmZ2cwtibRlHL+EwYGPnxUrIP4tY8V4u
+/PWDu9tw5cz+Jc6z7aXdY2BN9ZrYlapJCY7hss8lS1d6nxMUG1m2wG1prcNh2k0mhKrkgFvNxBbX
+0yLM5pMmjuxpo0q+YUkdqSOQnNgsTTwDgI1D4+rdITx7NS1Y5+nwFK6fPYDtbT/PDlqpCPIu8VxV
+qUIIubHRjwkMj8+jJRKmK4RpYp/YxFzZnDAVSF756iSxS1swTKRNSyR8TiS5DMN0KnnBuw0Ny2y+
+ciWK9k9Jb7+l9AH87wDWVAeKCrNSZhcpkO/LewiljB5ZkVbKbqbRtbCRewBSXge9ndbRUKMhQ7I5
+SA6Pf07+qKB8/5ZUpkljIRrjuUI7FYiH509+XcjPoQ6OafXNVAKsThSXMSFVNhYn+wcSWOF4nZ8I
+kkMaraJNkpP53aRemGU2W4C84M6MlargfHJSHL2U7GCAny/MYUplCcFzVjA+Xo/+dgjxInFzksia
+eX7nJoWdLihUlgP6Ip8VSULY8ZhGY7kfxzJ8OGCTeHPyRQF5SR5UlSrlQGEHig5XVlNe3cAvxoo7
+wKBURfZZyAfgA/gLADQP+6uthoXi8PC/WVcsZH4O+AD+MwDfBRgAvFmC6VUGrFMAAAAASUVORK5C
+YII=
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+48
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+48
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1085
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+48 x 48
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/BBB88A6F24C24D9E9C26F6D27E3F7308.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 2d5ccd6c-416d-448f-8f67-d72ec567bfb4
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 8
+
+Linkedin
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150123T141531Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2d5ccd6c-416d-448f-8f67-d72ec567bfb4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150514T122247:635672029675773244Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

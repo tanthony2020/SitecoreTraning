@@ -1,0 +1,140 @@
+----item----
+version: 1
+id: {6FE79C14-475E-41EC-87F2-D67FF087DF1F}
+database: master
+path: /sitecore/media library/System/Channel Images/ch-faq
+parent: {587F00AD-D60C-440B-B23F-6D55ABC094A8}
+name: ch-faq
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20181101T095340Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1460
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAD8UlEQVR42u1ZXUhUQRTebBMrs5cC
+CQKhIrJCkqCSgiD6ocIKeiyy16QSSoSN2B9FXBZWqSg1TKKQWLA36cEXwV6WpJ+XjApMgnxqSdqw
+sqzvxFiH6d65c+eu7o124HAv9845852Zc86cORMIFFqh5bdFIpGiWCy2JRqNnsV7TzgcfojnOCgL
++i6I3sfFvx7qSzzEmzfgALANgK4DxATohyFNkAySNZ8zXgtKewBtRySzdi6BV4KGbAb/CBqAaVwC
+HWpubl7f1ta2nEyEiN7pG/2jPtRX8FjJojEqcwoey3wOQqekgabx/T4AHcF7icGElBAvySBZkuwp
+GtMz8K6urkUQ1msBvBvPihyuboWQKSvSSxhMhQbF7HCBI3C4Kge+ctBO0G6J6Fu5Q2CoojH4mAJD
+0MRsOiXwV0HFdv1h4xvwfxB8M3aOKv4NUl/FBBSLsThfpyvwsM2T0uAhh1mvBn1wEXGob7WDzBDn
+IUxa4FtbW1eCIcOY21X9U6nUQszQc7dhk3iI10GJdsaTIWw6ptPBbd7JiTAze01jP/FqBJERpnSH
+EryI3Vk2SI2GuTVZADslO7H4Jvdr0ggmNYwnSxhVnetY52FNfwnLjqqQL69CRDMiDjOeOpX59LHZ
+qdcRjoiyRijxq+H9tE2I3GyhQEhzkurZBPWpNB2d7egU73UbFFwHebctNimio5qJYxXjGVUpwO2/
+1AvwRCKxVOwl0zZR6F0ymVysaUKl3A9UJvR7E0Jb4DEFGVJEIEpHDurKIyw6PiavQJmpArDZ8wrw
+r/B/j8u0pkxrBbgPQNOtHpKzpxbAX5ODm+Q1hEXLB6Qo1Ogh/f4q2fs9o4Tsz4o26kYhvg888bAC
+b7jN2oVWF/b/jG+SbnbiAz4oGhzW3oktcqFRk9OWsPXZjS1Mm51pKCan186FbLLRmwY+MCPlPGFD
+07nrOhu1OQ9EXS67Uc4jyUgYnQcUJ7JruudTLwqImb/h6USmOBOndUoeXqIQ+l6Qxuw3DsFWVQkR
+46/guSrXEScejy+D7Ek23h3jqoRTXQjfPpOTiRNZMBcKQOZxfuTMlVydylxGLPVFDLwPtFbMZpFL
+BbqZAjE/1EapMj1GZZKWlpbVDnKXgN6z88gOv1WnJ2Fu+xUKNLDZf+klnTe+H8DAt/j9gEWR65NV
+FKOAIG2eZ/xy+REUTj7GwA3IRV7p0P5CVQHM12XIRoD6xvxiBQubD/hJjWqofr2KSjMH3QWz2W5R
+0WsI+LUB3CPmpI8tEr7LvgVPIZSZ0F+3O1DmRMDPDQCTNqX2/lxelMyVA9N16hcG/i3lUqBNgX+h
+0RmWyiygY3Qym7cNqtAK7T9pPwHa7giHdkBLagAAAABJRU5ErkJggg==
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+48
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+48
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1066
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+48 x 48
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/6FE79C14475E41EC87F2D67FF087DF1F.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 6b6c68a4-343b-47a9-a574-0570102a2534
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 3
+
+Faq
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150123T141527Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6b6c68a4-343b-47a9-a574-0570102a2534
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150514T122035:635672028354251105Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

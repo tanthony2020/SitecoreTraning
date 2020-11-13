@@ -1,0 +1,138 @@
+----item----
+version: 1
+id: {9647DBA8-0F1F-4943-B397-6FE379E4F742}
+database: master
+path: /sitecore/media library/System/Channel Images/ch-facebook-post
+parent: {587F00AD-D60C-440B-B23F-6D55ABC094A8}
+name: ch-facebook-post
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20181101T095340Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 1280
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA0pJREFUeNrsWktrE1EUPvfOJGnatKEvrUV8FKQWEaWbBlREkNZVdaHi
+0oV0LeKim5IEERcWVOhv0K3UlRtBBVGhC6naha/YSvq0sUnzaCaZ8dyb1nSmk1fJPII5cAh3uJ17
+v3u+850zMyWKokAtG4UatzoAq03cPggGg9VKCHafFfSX6OPo7/Qm+f1+20aAoHeiX0Z/gz5ayxRi
+a9xDDxhOIU14Sak/Rsrp3e8m+n29W27+BuwcgQz6Q821kAaE3+4UymjG5zQgAtUEYUYOhIwEYVYd
+0AWBOTRaKwAKgbiLIAYMUaFdFDhSpKgVO8Db6FdquZU4W+u9UIfhFCpU1HQKWSk66RU7YjgAA+oE
+a/DGq9HMVRXAFPWF8cdT7vzhO893s8z65NhQt1EqtM+ECDYbSaGYdoFKTZYVkP89pxOgeCyUEu0a
+9noio4SAlJVheS0F8Y0MAgDuWVmGDSlriQqVv3k83Wgizavd8MBBOHOsCw505tKIBeLzbAQeTX4E
+QSAgUGILFconDe4nlpDAKQowdq0fTvXt3TGn1eOEB5PTQBViv0KWRZ4kkDK3Lh7X3XwOJCnajJjR
+CxXOeDz9E4fbYLB/v+r6z6UYJNNZTpmFSJLTjBD7FLK8oKckONnTrrr25NVXmHj2CRxIK1EgPAJu
+p2CrSqyiUEujU3XtxYcwpDMytDW7eBKXiqvlKqTIanY6RAouh8BPnpRBSlMjwDjNdD28muDjb/NR
+iMTTqjmLyPkfizFOL2YMTFdrI9dUxWoAbFOdXjdcP9/Lx0z/fb17VHNGLvTxeuB25ba2hgCfvg3x
+aFBCrFWheCoDR7pdcPV0T8E5QxpF+rUS54ntdoq6K5haB5gcsvagEnv/ZYnTjhIbPJGRzfagEptd
+joOEqkQKZLSpKuRFyVxeS8LIxGs+Dq/G4cbgUbjkO5R/1/J4Cmbm/oC3KSevv6Mp6GhpsIcKiQLl
+pzkzF+FjpjasA91u3xeiMB1ahfYWFx83NTigAQuZLCvWA2B9PsuDVk9uc7GktKPKssLGitjWnK1n
+hIojsIuPHQQssPo3MqtNLEdtDH7LUKdQVV95mPDd37jXKlgs5ykQTxbl0kBJWletWf9fiTqA/xzA
+XwEGANwpHHnHzJ/JAAAAAElFTkSuQmCC
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+48
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+48
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 3
+
+936
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+48 x 48
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+-/media/9647DBA80F1F4943B3976FE379E4F742.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: b9757c87-a322-4f03-a72e-4f5043b1bc97
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 13
+
+Facebook post
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150123T141531Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9757c87-a322-4f03-a72e-4f5043b1bc97
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150514T122026:635672028266992380Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

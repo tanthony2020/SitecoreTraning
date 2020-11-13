@@ -1,0 +1,63 @@
+----item----
+version: 1
+id: {5E77F69E-5E35-4AA1-BD42-6209222E2162}
+database: master
+path: /sitecore/templates/TAC/Events/Event Section/__Standard Values
+parent: {DCAF1EE6-3150-4D1B-A20E-F01C3B3F987A}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {DCAF1EE6-3150-4D1B-A20E-F01C3B3F987A}
+templatekey: Event Section
+created: 20201110T223355Z
+
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 221
+
+<r>
+  <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{170106F2-8D0B-459D-B5DD-5E1601A35288}">
+    <r id="{9EB5050B-5BE6-4B25-B935-B0C275EE1FE4}" ph="main" uid="{1D4375B6-3463-4AFF-91CA-F26D05D74796}" />
+  </d>
+</r>
+----version----
+language: en
+version: 1
+revision: fe3c0699-7dcd-487f-a8c9-914bf77c9827
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20201110T223355Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fe3c0699-7dcd-487f-a8c9-914bf77c9827
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20201112T184438Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

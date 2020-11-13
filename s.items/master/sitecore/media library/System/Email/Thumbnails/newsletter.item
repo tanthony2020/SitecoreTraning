@@ -1,0 +1,123 @@
+----item----
+version: 1
+id: {E6FB987E-5B2C-45CA-B237-3DD44F106821}
+database: master
+path: /sitecore/media library/System/Email/Thumbnails/newsletter
+parent: {6556EEB7-F3B5-42D3-A3B0-F2ADB913B292}
+name: newsletter
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+created: 20181101T095340Z
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 700
+
+iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAaFJREFUeNrsm01OwzAQhTuou3aNOEL3HIMNd+gCcQns3IAdQuIa3AWJ
+CyD2rMOzFLEIaWPXTvwzz9JIVZuf5st7Mx6nlb7vN5rH1Ub5IADtALZzG3RdV0KS+EF8IN4RL9ba
+L98d53JcLQrYIW4RT4hP3JSjZgvscVffAMGozgGAYN1YPAeMB84pa1ygMeZaRF7x8v7cZo5BDIhi
+FQCJf+MuP/iwirFD0RZwEKbenrLDpRCqywGD3JNBiAbg6mxIlAZhG/El+kGmofslSbbW/hUBMwHB
+JdGuSQsEKOHYPIAZCM/46GYxC2S8YN9Eskc8ji2irRu8094OH7QD2FWfA3x7D8/eoV0FBPQO7Vrg
+RO9QpwVCps2Q/nrrAWNv1v5cgavCsQeIkd8lci8GQMCU1Cd5/St5IccflsWEFiAAAli/DFIBBKDX
+AinKoFABBEAA1fYCS/t37sEIFUAAmS2QeyVEqAACIICmyyAVcDYDJ/rFCS1QURkUWqAwBeSdBYlQ
+AVkVwEVRzgQJQGcOSPlQlAogAALIP6Hif4dpAQJQPX4FGABof8WTg41uwwAAAABJRU5ErkJggg==
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+64
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+64
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 3
+
+511
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+64 x 64
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+~/media/E6FB987E5B2C45CAB2373DD44F106821.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 54c3f4f9-90ce-4183-8627-b80b0153ec3c
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150427T075201Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+54c3f4f9-90ce-4183-8627-b80b0153ec3c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T075201:635657179214061972Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

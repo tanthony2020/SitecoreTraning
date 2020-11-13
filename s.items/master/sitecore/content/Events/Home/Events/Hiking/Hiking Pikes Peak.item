@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {3BB7EC63-8AA6-44A3-8C2B-E8DF43972FC0}
+database: master
+path: /sitecore/content/Events/Home/Events/Hiking/Hiking Pikes Peak
+parent: {5F62F4B5-A734-40B5-89B0-43D7C935FB31}
+name: Hiking Pikes Peak
+master: {00000000-0000-0000-0000-000000000000}
+template: {B24333BC-4FD0-43F9-BB4F-A9166EC0968D}
+templatekey: Event Details
+created: 20201110T224633Z
+
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 285
+
+<tracking>
+  <profile id="7ca4ef06-9e0c-43eb-b11a-e3fdd3a2921d" name="Activity" presets="adventure|100||">
+    <key name="Climbing" value="1" />
+    <key name="Cycling" value="6" />
+    <key name="Hiking" value="9" />
+    <key name="Skiing" value="0" />
+  </profile>
+</tracking>
+----version----
+language: en
+version: 1
+revision: 2ade7bf7-8e07-4a0a-b835-70595a3bcb3d
+
+----field----
+field: {1384A77F-8E0C-40BA-B628-3C5ED330DD86}
+name: ContentHeading
+key: contentheading
+content-length: 17
+
+Hiking Pikes Peak
+----field----
+field: {AE97D6D0-6BC0-4395-B623-4DBD705C3C18}
+name: ContentIntro
+key: contentintro
+content-length: 107
+
+Lorem ipsum dolar sit amet, consectetur adipiscing elit. Mauris congue vulpatuate erat hendrerit tincidunt.
+----field----
+field: {81E35B20-0F90-4DC6-ACD7-5D5247E74C18}
+name: EventImage
+key: eventimage
+content-length: 145
+
+<image mediaid="{76AC5F36-7278-44C0-B3DC-5DE134EF4D67}" alt="Climbing the face of the half dome" height="" width="" hspace="" vspace="" ></image>
+----field----
+field: {A4A20EC1-EA56-4D8B-A709-8572D77E135C}
+name: StartDate
+key: startdate
+content-length: 16
+
+20201110T000000Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20201110T224633Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2ade7bf7-8e07-4a0a-b835-70595a3bcb3d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20201113T154024Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
