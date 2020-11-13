@@ -128,13 +128,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Business\EventsProvider.cs" />
     <Compile Include="Controllers\BreadcrumbController.cs" />
     <Compile Include="Controllers\CommentsFormController.cs" />
     <Compile Include="Controllers\EventIntroController.cs" />
+    <Compile Include="Controllers\EventsListController.cs" />
     <Compile Include="Controllers\OverviewController.cs" />
     <Compile Include="Controllers\RelatedEventsController.cs" />
     <Compile Include="Controllers\SubscribeFormController.cs" />
+    <Compile Include="Models\EventDetails.cs" />
     <Compile Include="Models\EventIntro.cs" />
+    <Compile Include="Models\EventsList.cs" />
     <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Models\OverviewItem.cs" />
     <Compile Include="Models\OverviewList.cs" />
@@ -185,6 +189,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="App_Config\Include\TAC\Events\Events.DefaultIndexConfiguration.config" />
+    <Content Include="App_Config\Include\TAC\Events\Solr.Events.Web.Index.config" />
+    <None Include="App_Config\Include\TAC\Events\Solr.Events.Master.Index.config" />
     <None Include="Properties\PublishProfiles\events.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <None Include="packages.config" />
@@ -276,6 +283,7 @@
     <Content Include="Views\SubscribeForm\Confirmation.cshtml" />
     <Content Include="Views\CommentsForm\Index.cshtml" />
     <Content Include="Views\CommentsForm\Confirmation.cshtml" />
+    <Content Include="Views\EventsList\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -284,7 +292,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Config\Include\TAC\Events\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
